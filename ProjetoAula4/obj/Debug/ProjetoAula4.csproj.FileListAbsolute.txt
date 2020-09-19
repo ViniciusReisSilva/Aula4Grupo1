@@ -1,0 +1,12 @@
+C:\Users\Vinicius\source\repos\ProjetoAula4\ProjetoAula4\bin\Debug\ProjetoAula4.exe.config
+C:\Users\Vinicius\source\repos\ProjetoAula4\ProjetoAula4\bin\Debug\ProjetoAula4.exe
+C:\Users\Vinicius\source\repos\ProjetoAula4\ProjetoAula4\bin\Debug\ProjetoAula4.pdb
+C:\Users\Vinicius\source\repos\ProjetoAula4\ProjetoAula4\obj\Debug\ProjetoAula4.csprojAssemblyReference.cache
+C:\Users\Vinicius\source\repos\ProjetoAula4\ProjetoAula4\obj\Debug\ProjetoAula4.FrmPrincipal.resources
+C:\Users\Vinicius\source\repos\ProjetoAula4\ProjetoAula4\obj\Debug\ProjetoAula4.Properties.Resources.resources
+C:\Users\Vinicius\source\repos\ProjetoAula4\ProjetoAula4\obj\Debug\ProjetoAula4.csproj.GenerateResource.cache
+C:\Users\Vinicius\source\repos\ProjetoAula4\ProjetoAula4\obj\Debug\ProjetoAula4.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\source\repos\ProjetoAula4\ProjetoAula4\obj\Debug\ProjetoAula4.exe
+C:\Users\Vinicius\source\repos\ProjetoAula4\ProjetoAula4\obj\Debug\ProjetoAula4.pdb
+C:\Users\Vinicius\source\repos\ProjetoAula4\ProjetoAula4\obj\Debug\ProjetoAula4.FrmCadastroAluno.resources
+C:\Users\Vinicius\source\repos\ProjetoAula4\ProjetoAula4\obj\Debug\ProjetoAula4.FrmEditorTexto.resources
